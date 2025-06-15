@@ -76,9 +76,9 @@ Challenges Faced
 Future Scope
 -------
 
--Integrate biometric or QR-based attendance input.
--Enable web-based access with login authentication.
--Add lectures schedules.
+- Integrate biometric or QR-based attendance input.
+- Enable web-based access with login authentication.
+- Add lectures schedules.
 
 
 Contributing
